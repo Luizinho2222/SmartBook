@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "smartbook",
+    "slug": "snack-6242077a-75f8-4fae-a8ca-4878d8cf36f5",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./Screens/loadScreen.JPG",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Screens/loadScreen.JPG",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
